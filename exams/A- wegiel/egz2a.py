@@ -1,5 +1,5 @@
 from egz2atesty import runtests
-# wzorcowe drzewa przedziałowe 
+# wzorcowe to drzewa przedziałowe, tutaj akceptowalna złożoność 
 def coal( A, T ):
     n = len(A)
     M = [T for _ in range(n)]
